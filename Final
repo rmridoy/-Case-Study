@@ -1,3 +1,5 @@
 For my final case study I'm choosing The microservice architecture at eBay and its impacts. I do lot of shopping in eBay, therefore I was really interested 
 in to this matter more than any other topic. I already started to do some research on this topic and trying to find eBay's microservice architecture and 
-decisions that they made. 
+decisions that they made. When eBay was first introduced in 2011, it had 97 million active users with 62 billion gross merchandise volume. Therefore, eBay's IT system
+had to deal with massive traffic daily with like 75 billion database calls and 250 billion search queries. Therefore, eBay began to divide everything and
+implementing microservice architecture from the perspectives like improving developers productivity and enabling a faster time to market while maintaing the site stability.
